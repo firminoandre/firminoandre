@@ -16,7 +16,7 @@
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Andre-yoda" src="https://gifmaker.me/PlayGIFAnimation.php?folder=2021081318TFZGGwidDny0QtXM1N6eIa&file=output_FKQX4u.gif">
+  <img align="right" alt="Andre-yoda" height="150" width="300" src="https://media.discordapp.net/attachments/379056330821861378/875984923687780442/giphy.gif">
 </div>
   
   
