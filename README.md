@@ -3,7 +3,8 @@
 
 
 - 🔭 Hoje estou focado em desenvolvimento front-end
-- 🌱 Aperfeiçoando PHP Orientado a Objetos
+- 🌱 Aperfeiçoando React JS
+
 
 <div>
   <a href="https://github.com/firminoandre">
