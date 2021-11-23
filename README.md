@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje estou focado em desenvolvimento front-end
-- 🌱 Aperfeiçoando React JS
+- 🔭 Hoje estou focado em desenvolvimento fullstack
+- 🌱 Aperfeiçoando vueJS and Laravel
 
 
 <div>
