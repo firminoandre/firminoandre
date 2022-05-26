@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Aperfeiçoando vueJS/reactJS and Laravel
+- 🌱 Frontend Engineer at @convisoappsec
 
 
 <div>
