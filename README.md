@@ -20,8 +20,6 @@
   <img align="center" alt="Andre-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="Andre-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Andre-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="right" alt="Andre-yoda" height="150" width="300" src="https://media.discordapp.net/attachments/379056330821861378/875984923687780442/giphy.gif">
-  
 </div>
   
   
